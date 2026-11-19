@@ -60,7 +60,7 @@ Desenvolvimento de um site institucional para um estúdio de Pilates, priorizand
 
 🔗 [Acessar repositório](https://github.com/Dudatopolski/emovapilates.git)
 
-🌍 [Acessar site](EM ANDAMENTO)
+🌍 [Acessar site](https://studioemovapilates.com.br/)
 
 ## 🎓 Formação e capacitação
 
